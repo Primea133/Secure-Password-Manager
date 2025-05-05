@@ -1,2 +1,3 @@
 # Secure-Password-Manager
-User based password manager program (Winodws)
+
+CLI-based password manager program (Winodws)
